@@ -19,3 +19,9 @@ PostgreSQL - Database
 H2 Database (Optional) - For in-memory testing
 Swagger - API documentation
 Maven - Dependency management and build tool
+
+### Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/ecommerce-platform.git
+   cd ecommerce-platform
