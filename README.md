@@ -15,6 +15,8 @@ This is a simple e-commerce backend application built using Spring Boot. The pla
 Spring Boot - Backend framework
 Spring Data JPA - ORM for database access
 Spring Security - For authentication and authorization
+Spring Web - For building web applications and RESTful services
+
 PostgreSQL - Database
 H2 Database (Optional) - For in-memory testing
 Swagger - API documentation
